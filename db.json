@@ -1,8 +1,5 @@
 ﻿{
-    "message": "success",
-    "is_success": true,
-    "data": {
-        "dogs": [
+     "dogs": [
             {
                 "id": 8,
                 "dog_type": "Toy",
@@ -39,6 +36,6 @@
                 "updated_at": "2021-10-23T16:05:19.122Z",
                 "ml_id": "n02086240-shih-tzu"
             }
-        ]
-    }
-}
+     ]
+ }
+
