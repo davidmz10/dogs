@@ -38,24 +38,6 @@
                 "created_at": "2021-10-23T16:05:19.122Z",
                 "updated_at": "2021-10-23T16:05:19.122Z",
                 "ml_id": "n02086240-shih-tzu"
-            },
-            {
-                "id": 10,
-                "dog_type": "Toy",
-                "height_female": "25.3",
-                "height_male": "28.0",
-                "image_url": "https://firebasestorage.googleapis.com/v0/b/perrodex-app.appspot.com/o/dog_details_images%2Fn02086646-blenheim_spaniel.png?alt=media&token=6af8b37c-c311-45ed-8175-00822dec22a1",
-                "index": 6,
-                "life_expectancy": "10 - 12",
-                "name_en": "King Charles Spaniel",
-                "name_es": "King Charles Spaniel",
-                "temperament": "Juguetón, feliz, amistoso",
-                "temperament_en": "Playful, happy, friendly",
-                "weight_female": "4 kg",
-                "weight_male": "5 kg",
-                "created_at": "2021-10-23T16:07:35.550Z",
-                "updated_at": "2021-10-23T16:07:35.550Z",
-                "ml_id": "n02086646-blenheim_spaniel"
             }
         ]
     }
